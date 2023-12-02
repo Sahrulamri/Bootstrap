@@ -1,2 +1,2 @@
 # Bootstrap
-Bootstrap untuk pemula
+Belajar Bootstrap untuk pemula
